@@ -1,0 +1,21 @@
+{
+  "name": "hyped-dark",
+  "displayName": "hyped dark",
+  "description": "one of the best dark theme for vs-code!",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.73.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "hyped dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/hyped dark-color-theme.json"
+      }
+    ]
+  }
+}
