@@ -3,6 +3,25 @@
   "displayName": "hyped dark",
   "description": "one of the best dark theme for vs-code!",
   "version": "0.0.1",
+  "publisher": "NeonXD",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/OBITO-Code/hyped-dark"
+  },
+  "keywords": [
+    "theme",
+    "vs code dark theme",
+    "dark theme",
+    "one dark pro",
+    "the hyped dark",
+    "Hyped Dark",
+    "best dark theme",
+    "Datker Theme",
+    "Darkest Theme",
+    "Github Theme",
+    "Gruvbox theme",
+    "Best Theme"
+  ],
   "engines": {
     "vscode": "^1.73.0"
   },
